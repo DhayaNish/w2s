@@ -1,0 +1,31 @@
+
+.navbar-brand{
+  color: white !important;
+ }
+.btn-action{
+  padding: 6px 12px 6px 12px;
+  background-color: cadetblue;
+  border: none;
+}
+.btn-action:hover{
+  background-color: cadetblue;
+}
+.close{
+cursor: pointer;
+}
+.btn-save{
+  background-color: cadetblue;
+  color: white;
+}
+.btn-save:hover{
+  background-color: white;
+  color: cadetblue;
+}
+.btn-delete{
+  background-color: cadetblue;
+  border: none;
+}
+.btn-delete:hover{
+  background-color: rgb(51, 108, 110);
+  border: none;
+}

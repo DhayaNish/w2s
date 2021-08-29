@@ -1,0 +1,11 @@
+.space-content{
+ margin-top: 25px;
+}
+.btn-auth{
+background-color: cadetblue;
+color: white;
+}
+.btn-auth:hover{
+background-color: white;
+color: cadetblue;
+}

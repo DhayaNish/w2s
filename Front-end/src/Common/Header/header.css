@@ -1,0 +1,19 @@
+.navbar{
+  background-color: cadetblue !important;
+ }
+.btn-user {
+  background-color: teal;
+  color: whitesmoke;
+  border-color: whitesmoke;
+}
+.btn-user:hover {
+  background-color: white;
+  color: teal;
+  border-color: teal;
+}
+
+.user-icon {
+  font-size: 45px;
+  color: white;
+  cursor: pointer;
+}
